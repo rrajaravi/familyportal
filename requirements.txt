@@ -5,6 +5,7 @@ PyYAML==3.12
 argparse==1.4.0
 deepdiff==3.1.0
 futures==3.0.5
+gunicorn==19.7.0
 json-spec==0.10.1
 jsonpickle==0.9.4
 pathlib==1.0.1
